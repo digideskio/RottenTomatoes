@@ -1,0 +1,34 @@
+.TopOfRow {
+    margin-bottom: 10px;
+}
+
+.PosterItem {
+    float:left;
+    margin-right:10px;
+}
+
+.Quote {
+    margin: 10px;
+    font-style: italic;
+}
+ #wavemakerNode .wmlayout .wmlist a, 
+#wavemakerNode .wmlayout .wmlist a:visited {
+    color: white;
+}
+
+html.WMApp body .PageTitle {
+   font-weight: bold;
+   font-size: 1.4Em;
+   color: white;
+}
+
+html.WMApp body .InfoBoxWithPicture {
+   -webkit-border-top-right-radius: 8px;
+   -webkit-border-bottom-right-radius: 8px;
+   border-top-right-radius: 8px;
+   border-bottom-right-radius: 8px;
+}
+
+.wmeditor .wmeditor-caption {
+    font-weight: bold;
+}
